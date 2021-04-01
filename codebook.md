@@ -37,3 +37,5 @@ Based on Labor Statistics hierarchies so Education Administration is under Manag
 
 ![image](https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png)
 
+PowerBi samples data theer are 54 States, includes Guam, PuertoRico  
+![image](https://user-images.githubusercontent.com/12059492/113347955-f1739180-9303-11eb-82a9-8786feda4c1e.png)
