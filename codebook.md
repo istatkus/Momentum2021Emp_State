@@ -24,8 +24,16 @@ GROUP	-- selecting 'Major'
 TOT_EMP -- employee count  
 #### The First Step is to analyze and understand the data.
 
-First pass used data from 2012 to 2019 and initially the data did not seem that interesting. 
+First pass used data from 2012 to 2019 and initially the data did not seem that interesting. Added 2006 to 2011.
 The Education occupation group appears to have been renamed recently so there is a break - consider combining.   
 Some groups are similar and very small  
-The cardinality of OCC_TITLE is too large to get usable charts in Power BI - consider combining  
+The cardinality of OCC_TITLE is too large to get usable charts in Power BI - consider combining.  
+#### Data Set Notes  
+Group is not filled in for all the sets other than Major.  
+The latest sets have extra columns.  
+The occupation names may change or have different case or spelling. 
+Employment Totals missing on some. Imputed as average or next. 
+Based on Labor Statistics hierarchies so Education Administration is under Management, Healtcare aids and assistants separate from Nurses, Doctors, technitians.  
+
+![image](https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png)
 
