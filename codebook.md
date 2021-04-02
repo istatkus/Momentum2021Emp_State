@@ -35,9 +35,11 @@ The occupation names may change or have different case or spelling.
 Employment Totals missing on some. Imputed as average or next. 
 Based on Labor Statistics hierarchies so Education Administration is under Management, Healtcare aids and assistants separate from Nurses, Doctors, technitians.  
 
-![image](https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png)
-<img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="950" height="600">  
+
+<img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="950" height="500"> 
+  
 PowerBi samples data theer are 54 States, includes Guam, PuertoRico  
+  
 ![image](https://user-images.githubusercontent.com/12059492/113347955-f1739180-9303-11eb-82a9-8786feda4c1e.png)
 
 ![image](https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png)  
@@ -46,7 +48,7 @@ PowerBi samples data theer are 54 States, includes Guam, PuertoRico
 
 
 
-###Data Robot
+### Data Robot
 Based on initial data exploration in PowerBi and SAS, I cleansed the names and changed to upper case.
 Missing Employment numbers were imputed as next, or average
 ![image](https://user-images.githubusercontent.com/12059492/113415810-fd0b9a80-938d-11eb-82ba-545bf3f4c517.png)    
