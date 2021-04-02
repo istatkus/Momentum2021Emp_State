@@ -36,7 +36,7 @@ Employment Totals missing on some. Imputed as average or next.
 Based on Labor Statistics hierarchies so Education Administration is under Management, Healtcare aids and assistants separate from Nurses, Doctors, technitians.  
 
 ![image](https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png)
-<img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="950" height="950">  
 PowerBi samples data theer are 54 States, includes Guam, PuertoRico  
 ![image](https://user-images.githubusercontent.com/12059492/113347955-f1739180-9303-11eb-82a9-8786feda4c1e.png)
 
