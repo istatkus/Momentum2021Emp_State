@@ -99,6 +99,9 @@ Download prediction
 
 ![image](https://user-images.githubusercontent.com/12059492/113427555-3c90b180-93a3-11eb-8c39-2ab1b90685ea.png)  
 
+I need to rename the downloaded file, else I get an error trying to open with Excel  
+![image](https://user-images.githubusercontent.com/12059492/113427674-7b266c00-93a3-11eb-9ec0-b0f2e0359fe8.png)  
+
 
 Creating a deployment  
 
