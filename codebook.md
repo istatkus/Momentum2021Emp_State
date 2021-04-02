@@ -42,7 +42,17 @@ PowerBi samples data theer are 54 States, includes Guam, PuertoRico
 
 ![image](https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)
+
+
+
+###Data Robot
+Based on initial data exploration in PowerBi and SAS, I cleansed the names and changed to upper case.
+Missing Employment numbers were imputed as next, or average
+![image](https://user-images.githubusercontent.com/12059492/113415810-fd0b9a80-938d-11eb-82ba-545bf3f4c517.png)  
+
+
+
 
 
 
