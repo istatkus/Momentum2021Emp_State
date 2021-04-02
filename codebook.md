@@ -51,13 +51,13 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
 ## SAS Data Exploration  
 
 ![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
-##### SAS had difficulty with 3 State abbreviations  
+##### SAS had difficulty with 3 State abbreviations 
+![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113437099-0576cc00-93b4-11eb-81ac-13f4d991885c.png)  
  
 ![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
  
-![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
 ##### Simple Forecasting  
 ![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113424701-95aa1680-939e-11eb-83e8-4a66d3a45584.png)  
