@@ -38,17 +38,25 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
 
 <img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="950" height="470"> 
   
-PowerBi samples data theer are 54 States, includes Guam, PuertoRico  
+## PowerBi samples data 
+Tthere are 54 States, includes Guam, PuertoRico  
   
 ![image](https://user-images.githubusercontent.com/12059492/113347955-f1739180-9303-11eb-82a9-8786feda4c1e.png)
 
 ![image](https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
-![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)
+![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)  
+
+All State and Computer  
+
+![image](https://user-images.githubusercontent.com/12059492/113436976-c5afe480-93b3-11eb-97e5-b08a016712f7.png)
+
 
 ## SAS Data Exploration  
 ![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
-SAS had difficulty with 3 State abbreviations
+SAS had difficulty with 3 State abbreviations  
+![image](https://user-images.githubusercontent.com/12059492/113437099-0576cc00-93b4-11eb-81ac-13f4d991885c.png)  
+  
 ![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
 Simple Forecasting  
 ![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)  
