@@ -42,19 +42,21 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
   
 ![image](https://user-images.githubusercontent.com/12059492/113347955-f1739180-9303-11eb-82a9-8786feda4c1e.png)
 
-![image](https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png)  
-![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
-![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)  
+![image](https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png) 
 
 ##### All State and Computer  
 
 ![image](https://user-images.githubusercontent.com/12059492/113436976-c5afe480-93b3-11eb-97e5-b08a016712f7.png)  
 
 ## SAS Data Exploration  
-![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
+
+![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
 ##### SAS had difficulty with 3 State abbreviations  
 ![image](https://user-images.githubusercontent.com/12059492/113437099-0576cc00-93b4-11eb-81ac-13f4d991885c.png)  
-  
+ 
+![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)  
+![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
+ 
 ![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
 ##### Simple Forecasting  
 ![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)  
@@ -85,41 +87,40 @@ tot_emp will be set as the target
 
 ![image](https://user-images.githubusercontent.com/12059492/113418234-1400bb80-9393-11eb-826e-519328856ad9.png)  
 
-We are expecting a prediction by State, Occupation. These exist for each Year  
+##### We are expecting a prediction by State, Occupation. These exist for each Year  
 
 ![image](https://user-images.githubusercontent.com/12059492/113418404-6b9f2700-9393-11eb-8b8b-d25f3343dcaf.png)  
 
-Created a custom feature list  
+##### Created a custom feature list  
 ![image](https://user-images.githubusercontent.com/12059492/113418702-fb44d580-9393-11eb-85a1-5789ebcee084.png) 
 
-None of the features are applicable for the transform feature option. I did not explore this for this data set. It looks to be a minimal transform capability. 
+##### None of the features are applicable for the transform feature option. I did not explore this for this data set. It looks to be a minimal transform capability. 
 
 ![image](https://user-images.githubusercontent.com/12059492/113418854-4ced6000-9394-11eb-8599-3b7ee106a018.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113418926-6db5b580-9394-11eb-9700-656048dbb3a0.png)  
 
-Selected Model  
+##### Selected Model  
 
 ![image](https://user-images.githubusercontent.com/12059492/113420659-b4f17580-9397-11eb-8db9-ba1f437e5c62.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113426324-4b766480-93a1-11eb-9771-e291e529d664.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113427041-5978b500-93a2-11eb-8fe0-1035114257c8.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113427205-a2306e00-93a2-11eb-82af-c798142d70b8.png)  
 
-Download prediction  
+##### Download prediction  
 
 ![image](https://user-images.githubusercontent.com/12059492/113427555-3c90b180-93a3-11eb-8c39-2ab1b90685ea.png)  
 
-I need to rename the downloaded file, else I get an error trying to open with Excel  
+##### I need to rename the downloaded file, else I get an error trying to open with Excel  
 ![image](https://user-images.githubusercontent.com/12059492/113427674-7b266c00-93a3-11eb-9ec0-b0f2e0359fe8.png)  
 
-You can add or change associated items withour re-predicting. I changed to use State name to compare to last model.  
+##### You can add or change associated items withour re-predicting. I changed to use State name to compare to last model.  
 ![image](https://user-images.githubusercontent.com/12059492/113428185-57aff100-93a4-11eb-87f6-e56313e694c3.png) 
 
-
-Creating a deployment  
+##### Creating a deployment  
 
 ![image](https://user-images.githubusercontent.com/12059492/113427465-0fdc9a00-93a3-11eb-8427-51708bb7afa3.png)  
 
-Download Exportable Charts  
+##### Download Exportable Charts  
 ![image](https://user-images.githubusercontent.com/12059492/113430260-d9554e00-93a7-11eb-8a1c-dbb7fd383b3d.png)
 
 
