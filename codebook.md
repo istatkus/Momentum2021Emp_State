@@ -45,6 +45,8 @@ PowerBi samples data theer are 54 States, includes Guam, PuertoRico
 ![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)
 
+### SAS Data Exploration  
+![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
 
 
 ### Data Robot
@@ -67,7 +69,10 @@ We are expecting a prediction by State, Occupation. These exist for each Year
 Created a custom feature list  
 ![image](https://user-images.githubusercontent.com/12059492/113418702-fb44d580-9393-11eb-85a1-5789ebcee084.png)  
 None of the features are applicable for the transform feature option. I did not explore this for this data set. It looks to be a minimal transform capability.  
-
+![image](https://user-images.githubusercontent.com/12059492/113418854-4ced6000-9394-11eb-8599-3b7ee106a018.png)
+![image](https://user-images.githubusercontent.com/12059492/113418926-6db5b580-9394-11eb-9700-656048dbb3a0.png)
+  
+  
 
 
 
