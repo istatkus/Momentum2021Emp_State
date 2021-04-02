@@ -102,6 +102,9 @@ Download prediction
 I need to rename the downloaded file, else I get an error trying to open with Excel  
 ![image](https://user-images.githubusercontent.com/12059492/113427674-7b266c00-93a3-11eb-9ec0-b0f2e0359fe8.png)  
 
+You can add or change associated items withour re-predicting. I changed to use State name to compare to last model.  
+![image](https://user-images.githubusercontent.com/12059492/113428185-57aff100-93a4-11eb-87f6-e56313e694c3.png) 
+
 
 Creating a deployment  
 
