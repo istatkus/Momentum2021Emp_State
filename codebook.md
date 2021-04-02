@@ -91,6 +91,16 @@ None of the features are applicable for the transform feature option. I did not 
 Selected Model  
 
 ![image](https://user-images.githubusercontent.com/12059492/113420659-b4f17580-9397-11eb-8db9-ba1f437e5c62.png)  
+![image](https://user-images.githubusercontent.com/12059492/113426324-4b766480-93a1-11eb-9771-e291e529d664.png)  
+![image](https://user-images.githubusercontent.com/12059492/113427041-5978b500-93a2-11eb-8fe0-1035114257c8.png)  
+![image](https://user-images.githubusercontent.com/12059492/113427205-a2306e00-93a2-11eb-82af-c798142d70b8.png)  
+
+Creating a deployment  
+
+![image](https://user-images.githubusercontent.com/12059492/113427465-0fdc9a00-93a3-11eb-8427-51708bb7afa3.png)  
+
+
+
 
   
 
