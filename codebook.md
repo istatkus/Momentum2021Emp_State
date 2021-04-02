@@ -35,11 +35,10 @@ The latest sets have extra columns.
 Employment Totals missing on some. Imputed as average or next. 
 Interpretation of data needs understanding of Department of Labor Statistics hierarchies. Example: Education Administration is under Management, Healtcare aids and assistants separate from Nurses, Doctors, technicians.  
 
-
+## PowerBI
 <img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="950" height="470"> 
-  
-## PowerBi samples data 
-Tthere are 54 States, includes Guam, PuertoRico  
+
+##### There are 54 States, includes Guam, PuertoRico  
   
 ![image](https://user-images.githubusercontent.com/12059492/113347955-f1739180-9303-11eb-82a9-8786feda4c1e.png)
 
@@ -47,24 +46,22 @@ Tthere are 54 States, includes Guam, PuertoRico
 ![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)  
 
-All State and Computer  
+##### All State and Computer  
 
-![image](https://user-images.githubusercontent.com/12059492/113436976-c5afe480-93b3-11eb-97e5-b08a016712f7.png)
-
+![image](https://user-images.githubusercontent.com/12059492/113436976-c5afe480-93b3-11eb-97e5-b08a016712f7.png)  
 
 ## SAS Data Exploration  
 ![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
-SAS had difficulty with 3 State abbreviations  
+##### SAS had difficulty with 3 State abbreviations  
 ![image](https://user-images.githubusercontent.com/12059492/113437099-0576cc00-93b4-11eb-81ac-13f4d991885c.png)  
   
 ![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
-Simple Forecasting  
+##### Simple Forecasting  
 ![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113424701-95aa1680-939e-11eb-83e8-4a66d3a45584.png)  
   
-SAS Built in Models  
+##### SAS Built in Models  
 ![image](https://user-images.githubusercontent.com/12059492/113436551-e88dc900-93b2-11eb-91d6-be9e497cb47f.png)
-
 
 
 ## Data Robot
@@ -72,19 +69,19 @@ Based on initial data exploration in PowerBi and SAS, I cleansed the names and c
 Missing Employment numbers were imputed as next, or average
 ![image](https://user-images.githubusercontent.com/12059492/113415810-fd0b9a80-938d-11eb-82ba-545bf3f4c517.png)    
 tot_emp will be set as the target  
-Set up time aware modeling  
+##### Set up time aware modeling  
  
 <img src="https://user-images.githubusercontent.com/12059492/113416010-5f649b00-938e-11eb-999c-de95ee550150.png" width="250" height="150"> 
-Only Automated with backtesting is available  
+##### Only Automated with backtesting is available  
 ![image](https://user-images.githubusercontent.com/12059492/113416044-74d9c500-938e-11eb-85a5-3ed704a7d3f4.png)  
 
 ![image](https://user-images.githubusercontent.com/12059492/113418041-b10f2480-9392-11eb-9493-7444018afd90.png)  
 
-None of the Advanced options are applicable  
+##### None of the Advanced options are applicable  
 
 ![image](https://user-images.githubusercontent.com/12059492/113418167-f2073900-9392-11eb-9df5-6dfb0f6638a1.png)  
 
-You can select an alternate method for model optimization    
+##### You can select an alternate method for model optimization    
 
 ![image](https://user-images.githubusercontent.com/12059492/113418234-1400bb80-9393-11eb-826e-519328856ad9.png)  
 
