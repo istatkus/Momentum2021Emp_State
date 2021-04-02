@@ -54,8 +54,8 @@ Missing Employment numbers were imputed as next, or average
 ![image](https://user-images.githubusercontent.com/12059492/113415810-fd0b9a80-938d-11eb-82ba-545bf3f4c517.png)    
 tot_emp will be set as the target  
 Set up time aware modeling  
-![image](https://user-images.githubusercontent.com/12059492/113416010-5f649b00-938e-11eb-999c-de95ee550150.png)  
-
+ 
+<img src="https://user-images.githubusercontent.com/12059492/113416010-5f649b00-938e-11eb-999c-de95ee550150.png" width="200" height="350"> 
 
 ![image](https://user-images.githubusercontent.com/12059492/113416044-74d9c500-938e-11eb-85a5-3ed704a7d3f4.png)  
 
