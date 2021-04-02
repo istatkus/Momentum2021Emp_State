@@ -95,6 +95,11 @@ Selected Model
 ![image](https://user-images.githubusercontent.com/12059492/113427041-5978b500-93a2-11eb-8fe0-1035114257c8.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113427205-a2306e00-93a2-11eb-82af-c798142d70b8.png)  
 
+Download prediction  
+
+![image](https://user-images.githubusercontent.com/12059492/113427555-3c90b180-93a3-11eb-8c39-2ab1b90685ea.png)  
+
+
 Creating a deployment  
 
 ![image](https://user-images.githubusercontent.com/12059492/113427465-0fdc9a00-93a3-11eb-8427-51708bb7afa3.png)  
