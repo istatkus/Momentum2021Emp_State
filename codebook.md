@@ -123,6 +123,16 @@ tot_emp will be set as the target
 ##### Download Exportable Charts  
 ![image](https://user-images.githubusercontent.com/12059492/113430260-d9554e00-93a7-11eb-8a1c-dbb7fd383b3d.png)
 
+## Some Results  
+##### First model - fewer years had stronger downward trend due to 2020
+![image](https://user-images.githubusercontent.com/12059492/113438045-c9446b00-93b5-11eb-8e93-ebdd7df8b039.png)  
+##### Excel Slope and Intercept Florida and Computer  
+![image](https://user-images.githubusercontent.com/12059492/113438170-07da2580-93b6-11eb-9c0c-de9b6e846379.png)  
+##### SAS Linear Regression 95% Confidence Interval  
+![image](https://user-images.githubusercontent.com/12059492/113438245-2f30f280-93b6-11eb-90d0-d312f632b264.png)  
+
+
+
 
 
 
