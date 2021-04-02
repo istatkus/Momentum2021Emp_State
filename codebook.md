@@ -50,7 +50,9 @@ PowerBi samples data theer are 54 States, includes Guam, PuertoRico
 SAS had difficulty with 3 State abbreviations
 ![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
 Simple Forecasting  
-![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)
+![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)  
+![image](https://user-images.githubusercontent.com/12059492/113424701-95aa1680-939e-11eb-83e8-4a66d3a45584.png)  
+
 
 
 ### Data Robot
