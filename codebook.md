@@ -47,6 +47,10 @@ PowerBi samples data theer are 54 States, includes Guam, PuertoRico
 
 ### SAS Data Exploration  
 ![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
+SAS had difficulty with 3 State abbreviations
+![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
+Simple Forecasting  
+![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)
 
 
 ### Data Robot
@@ -71,7 +75,9 @@ Created a custom feature list
 None of the features are applicable for the transform feature option. I did not explore this for this data set. It looks to be a minimal transform capability.  
 ![image](https://user-images.githubusercontent.com/12059492/113418854-4ced6000-9394-11eb-8599-3b7ee106a018.png)
 ![image](https://user-images.githubusercontent.com/12059492/113418926-6db5b580-9394-11eb-9700-656048dbb3a0.png)
-  
+Selected Model  
+![image](https://user-images.githubusercontent.com/12059492/113420659-b4f17580-9397-11eb-8db9-ba1f437e5c62.png)
+
   
 
 
