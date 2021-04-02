@@ -61,21 +61,33 @@ tot_emp will be set as the target
 Set up time aware modeling  
  
 <img src="https://user-images.githubusercontent.com/12059492/113416010-5f649b00-938e-11eb-999c-de95ee550150.png" width="250" height="150"> 
-Only Automated with backtesting is available
+Only Automated with backtesting is available  
 ![image](https://user-images.githubusercontent.com/12059492/113416044-74d9c500-938e-11eb-85a5-3ed704a7d3f4.png)  
+
 ![image](https://user-images.githubusercontent.com/12059492/113418041-b10f2480-9392-11eb-9493-7444018afd90.png)  
+
 None of the Advanced options are applicable  
+
 ![image](https://user-images.githubusercontent.com/12059492/113418167-f2073900-9392-11eb-9df5-6dfb0f6638a1.png)  
+
 You can select an alternate method for model optimization    
+
 ![image](https://user-images.githubusercontent.com/12059492/113418234-1400bb80-9393-11eb-826e-519328856ad9.png)  
+
 We are expecting a prediction by State, Occupation. These exist for each Year  
-![image](https://user-images.githubusercontent.com/12059492/113418404-6b9f2700-9393-11eb-8b8b-d25f3343dcaf.png)
+
+![image](https://user-images.githubusercontent.com/12059492/113418404-6b9f2700-9393-11eb-8b8b-d25f3343dcaf.png)  
+
 Created a custom feature list  
-![image](https://user-images.githubusercontent.com/12059492/113418702-fb44d580-9393-11eb-85a1-5789ebcee084.png)  
-None of the features are applicable for the transform feature option. I did not explore this for this data set. It looks to be a minimal transform capability.    
+![image](https://user-images.githubusercontent.com/12059492/113418702-fb44d580-9393-11eb-85a1-5789ebcee084.png) 
+
+None of the features are applicable for the transform feature option. I did not explore this for this data set. It looks to be a minimal transform capability. 
+
 ![image](https://user-images.githubusercontent.com/12059492/113418854-4ced6000-9394-11eb-8599-3b7ee106a018.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113418926-6db5b580-9394-11eb-9700-656048dbb3a0.png)  
+
 Selected Model  
+
 ![image](https://user-images.githubusercontent.com/12059492/113420659-b4f17580-9397-11eb-8db9-ba1f437e5c62.png)  
 
   
