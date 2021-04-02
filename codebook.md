@@ -1,17 +1,17 @@
 
-### title: Momemtum Snowflake with Data Robot Employment by State Time Series
+## title: Momemtum Snowflake with Data Robot Employment by State Time Series
 #### date: April 1, 2021
-### Project Description
+## Project Description
 Clean and prepare a data set to learn Data Robot  
 Clean and prepare a data set to learn Snowflake with Data Robot  
 
-### Subject area 
+## Subject area 
 Select a simple subject area: Employment numbers from The Bureau of Labor Statistcs by State by Year.   
 https://www.bls.gov/oes/tables.htm  
 Selected the State tables
 For initial manual prototype, selecting only major occupations and employment numbers by State
   
-### Questions  
+## Questions  
 What is the predicted employment numbers for future years by State and Occupation. 
 
 ### Data selected  
@@ -22,7 +22,8 @@ OCC_CODE	-- for the manual trial, this will be excluded
 OCC_TITLE	-- the occupation group name  
 GROUP	-- selecting 'Major'  
 TOT_EMP -- employee count  
-#### The First Step is to analyze and understand the data.
+
+## The First Step is to analyze and understand the data.
 
 First pass used data from 2012 to 2019 and initially the data did not seem that interesting. Added 2006 to 2011.
 The Education occupation group appears to have been renamed recently so there is a break - consider combining. 
@@ -45,17 +46,20 @@ PowerBi samples data theer are 54 States, includes Guam, PuertoRico
 ![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)
 
-### SAS Data Exploration  
+## SAS Data Exploration  
 ![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
 SAS had difficulty with 3 State abbreviations
 ![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)
 Simple Forecasting  
 ![image](https://user-images.githubusercontent.com/12059492/113422285-65607900-939a-11eb-9554-b9d3ae56b211.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113424701-95aa1680-939e-11eb-83e8-4a66d3a45584.png)  
+  
+SAS Built in Models  
+![image](https://user-images.githubusercontent.com/12059492/113436551-e88dc900-93b2-11eb-91d6-be9e497cb47f.png)
 
 
 
-### Data Robot
+## Data Robot
 Based on initial data exploration in PowerBi and SAS, I cleansed the names and changed to upper case.
 Missing Employment numbers were imputed as next, or average
 ![image](https://user-images.githubusercontent.com/12059492/113415810-fd0b9a80-938d-11eb-82ba-545bf3f4c517.png)    
@@ -109,6 +113,9 @@ You can add or change associated items withour re-predicting. I changed to use S
 Creating a deployment  
 
 ![image](https://user-images.githubusercontent.com/12059492/113427465-0fdc9a00-93a3-11eb-8427-51708bb7afa3.png)  
+
+Download Exportable Charts  
+![image](https://user-images.githubusercontent.com/12059492/113430260-d9554e00-93a7-11eb-8a1c-dbb7fd383b3d.png)
 
 
 
