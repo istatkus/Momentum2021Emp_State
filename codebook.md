@@ -33,7 +33,7 @@ The cardinality of OCC_TITLE is too large to get usable charts in Power BI - con
 The occupation names may change or have different case or spelling. 
 The latest sets have extra columns.  
 Employment Totals missing on some. Imputed as average or next. 
-Interpretation of data needs understanding of Department of Labor Statistics hierarchies. Example: Education Administration is under Management, Healtcare aids and assistants separate from Nurses, Doctors, technitians.  
+Interpretation of data needs understanding of Department of Labor Statistics hierarchies. Example: Education Administration is under Management, Healtcare aids and assistants separate from Nurses, Doctors, technicians.  
 
 
 <img src="https://user-images.githubusercontent.com/12059492/113344759-81630c80-92ff-11eb-8c58-2f0aafc613ec.png" width="950" height="470"> 
