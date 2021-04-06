@@ -129,7 +129,15 @@ tot_emp will be set as the target
 ##### Excel Slope and Intercept Florida and Computer  
 ![image](https://user-images.githubusercontent.com/12059492/113438170-07da2580-93b6-11eb-9c0c-de9b6e846379.png)  
 ##### SAS Linear Regression 95% Confidence Interval  
-![image](https://user-images.githubusercontent.com/12059492/113438245-2f30f280-93b6-11eb-90d0-d312f632b264.png)  
+![image](https://user-images.githubusercontent.com/12059492/113438245-2f30f280-93b6-11eb-90d0-d312f632b264.png) 
+
+
+### Sources
+https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
+
+https://www.currentresults.com/Weather/US/average-annual-state-precipitation.php  
+
+https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
 
 
 
