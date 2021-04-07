@@ -131,6 +131,9 @@ tot_emp will be set as the target
 ##### SAS Linear Regression 95% Confidence Interval  
 ![image](https://user-images.githubusercontent.com/12059492/113438245-2f30f280-93b6-11eb-90d0-d312f632b264.png) 
 
+### Using Paxata to clean the data sets and join them  
+
+![image](https://user-images.githubusercontent.com/12059492/113872262-bc42c580-9781-11eb-9ba8-2ae049463162.png)  
 
 ### Sources
 https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
