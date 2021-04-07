@@ -134,6 +134,8 @@ tot_emp will be set as the target
 ### Using Paxata to clean the data sets and join them  
 
 ![image](https://user-images.githubusercontent.com/12059492/113872262-bc42c580-9781-11eb-9ba8-2ae049463162.png)  
+Re-running Time series with population
+![image](https://user-images.githubusercontent.com/12059492/113874452-cd8cd180-9783-11eb-9c06-e9d6b9f23a84.png)  
 
 ### Sources
 https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
