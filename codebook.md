@@ -144,6 +144,10 @@ https://www.currentresults.com/Weather/US/average-annual-state-precipitation.php
 
 https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
 
+## Forecasting PowerBI  
+Combined State Population and State Employment to produce connected report that contains a line chart with forecast  
+![image](https://user-images.githubusercontent.com/12059492/113891234-df29a580-9792-11eb-8003-93a69ce72f9d.png)
+
 
 
 
