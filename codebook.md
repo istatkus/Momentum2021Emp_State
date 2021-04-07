@@ -137,6 +137,10 @@ tot_emp will be set as the target
 Re-running Time series with population
 ![image](https://user-images.githubusercontent.com/12059492/113874452-cd8cd180-9783-11eb-9c06-e9d6b9f23a84.png)  
 
+After cleansing and combining with Paxata and re-running through Data Robot, the Feature Impact results would imply that the population and population over 18 growth had little impact on the model itself.  
+![image](https://user-images.githubusercontent.com/12059492/113904948-9c6eca00-97a0-11eb-9980-5f662f25af1c.png)  
+
+
 ### Sources
 https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
 
