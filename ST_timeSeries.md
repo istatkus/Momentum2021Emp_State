@@ -61,7 +61,7 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
 <img src="https://user-images.githubusercontent.com/12059492/113424701-95aa1680-939e-11eb-83e8-4a66d3a45584.png" width="950" height="660">   
   
 ##### SAS Built in Models  
-![image](https://user-images.githubusercontent.com/12059492/113436551-e88dc900-93b2-11eb-91d6-be9e497cb47f.png)
+<img src="https://user-images.githubusercontent.com/12059492/113436551-e88dc900-93b2-11eb-91d6-be9e497cb47f.png" width="431" height="100">   
 
 
 ## Forecasting PowerBI  
