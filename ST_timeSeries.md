@@ -81,7 +81,8 @@ tot_emp will be set as the target
 ##### Set up time aware modeling  
  
 <img src="https://user-images.githubusercontent.com/12059492/113416010-5f649b00-938e-11eb-999c-de95ee550150.png" width="250" height="150"> 
-##### Only Automated with backtesting is available  
+##### Only Automated with backtesting is available the other option is disabled  
+
 ![image](https://user-images.githubusercontent.com/12059492/113416044-74d9c500-938e-11eb-85a5-3ed704a7d3f4.png)  
 
 ![image](https://user-images.githubusercontent.com/12059492/113418041-b10f2480-9392-11eb-9493-7444018afd90.png)  
