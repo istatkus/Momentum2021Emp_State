@@ -16,7 +16,7 @@ What is the predicted employment numbers for future years by State and Occupatio
 
 ### Data selected  
 Time Component -- Date -This is not on the file, so I will manually add to the Excel as the release date 5/1/YYYY for each data set  
-ST -- State code - the 2 caharcter State code  
+ST -- State code - the 2 character State code  
 STATE	-- The State Name  
 OCC_CODE	-- for the manual trial, this will be excluded  
 OCC_TITLE	-- the occupation group name  
@@ -54,8 +54,7 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
 ##### SAS had difficulty with 3 State abbreviations 
 ![image](https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)  
 ![image](https://user-images.githubusercontent.com/12059492/113437099-0576cc00-93b4-11eb-81ac-13f4d991885c.png)  
- 
-![image](https://user-images.githubusercontent.com/12059492/113415749-e107f900-938d-11eb-9768-b6aae8af839a.png)  
+  
 ![image](https://user-images.githubusercontent.com/12059492/113420272-077e6200-9397-11eb-91f0-3e24093ae6e4.png) 
  
 ##### Simple Forecasting  
@@ -64,6 +63,11 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
   
 ##### SAS Built in Models  
 ![image](https://user-images.githubusercontent.com/12059492/113436551-e88dc900-93b2-11eb-91d6-be9e497cb47f.png)
+
+
+## Forecasting PowerBI  
+Combined State Population and State Employment to produce connected report that contains a line chart with forecast  
+![image](https://user-images.githubusercontent.com/12059492/113891234-df29a580-9792-11eb-8003-93a69ce72f9d.png)
 
 
 ## Data Robot
@@ -143,17 +147,6 @@ Re-running Time series with population
 After cleansing and combining with Paxata and re-running through Data Robot, the Feature Impact results would imply that the population and population over 18 growth had little impact on the model itself.  
 ![image](https://user-images.githubusercontent.com/12059492/113904948-9c6eca00-97a0-11eb-9980-5f662f25af1c.png)  
 
-
-### Sources
-https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
-
-https://www.currentresults.com/Weather/US/average-annual-state-precipitation.php  
-
-https://worldpopulationreview.com/state-rankings/average-temperatures-by-state  
-
-## Forecasting PowerBI  
-Combined State Population and State Employment to produce connected report that contains a line chart with forecast  
-![image](https://user-images.githubusercontent.com/12059492/113891234-df29a580-9792-11eb-8003-93a69ce72f9d.png)
 
 
 
