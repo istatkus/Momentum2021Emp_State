@@ -47,9 +47,9 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
 <img src="https://user-images.githubusercontent.com/12059492/113436976-c5afe480-93b3-11eb-97e5-b08a016712f7.png" width="950" height="470">   
 
 ## SAS Data Exploration  
-![image](https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png) 
+<img src="https://user-images.githubusercontent.com/12059492/113351735-436ae600-9309-11eb-975e-e82b38d279d6.png" width="950" height="310">
 
-![image](https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png)  
+<img src="https://user-images.githubusercontent.com/12059492/113352425-3c90a300-930a-11eb-9300-4b454fbe58d2.png" width:75% height: 75%>  
 ##### SAS had difficulty with 3 State abbreviations 
 <img src="(https://user-images.githubusercontent.com/12059492/113420525-7c519c00-9397-11eb-9e78-97565586c75a.png)">   
 ![image](https://user-images.githubusercontent.com/12059492/113437099-0576cc00-93b4-11eb-81ac-13f4d991885c.png)  
