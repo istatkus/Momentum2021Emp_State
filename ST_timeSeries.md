@@ -66,7 +66,8 @@ Interpretation of data needs understanding of Department of Labor Statistics hie
 
 ## Forecasting PowerBI  
 Combined State Population and State Employment to produce connected report that contains a line chart with forecast  
-![image](https://user-images.githubusercontent.com/12059492/113891234-df29a580-9792-11eb-8003-93a69ce72f9d.png)
+![image](https://user-images.githubusercontent.com/12059492/114079207-e4145500-9877-11eb-89bb-78d4e073d22e.png)
+
 
 
 ## Data Robot
