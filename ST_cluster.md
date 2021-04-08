@@ -20,20 +20,26 @@ Data was downloaded and merged manually using the STATE name.
 Based on various average weather data points, what is a reasonable way to cluster them?  
 
 ### Data selected averages from approx 1971 to present
-STATE - State Name
-PRECIP_INCHES - Precipitation in inches
-PRECIP_MM	- Precipitation millimeters
-Place - Some statistics are based on a particular city
-Morning_Humidity_Pct - Morning humidity percent 
-Afternoon_Humidity_Pct - Afternoon humidity percent
-SUN_PCT - Percent sunny
-SUN Total Hours - Total Sunny hours
-Clear Days - Clear days
-AverageTemperature - Average temperature
+STATE - State Name  
+PRECIP_INCHES - Precipitation in inches  
+PRECIP_MM	- Precipitation millimeters  
+Place - Some statistics are based on a particular city  
+Morning_Humidity_Pct - Morning humidity percent   
+Afternoon_Humidity_Pct - Afternoon humidity percent  
+SUN_PCT - Percent sunny  
+SUN Total Hours - Total Sunny hours  
+Clear Days - Clear days  
+AverageTemperature - Average temperature  
 
 ### Power Bi Cluster  
 ![image](https://user-images.githubusercontent.com/12059492/114058778-c2a86e80-9861-11eb-96d5-28d3e7dc4e5e.png)  
-![image](https://user-images.githubusercontent.com/12059492/114063604-cc80a080-9866-11eb-91e8-488554166d0a.png)  
+![image](https://user-images.githubusercontent.com/12059492/114063604-cc80a080-9866-11eb-91e8-488554166d0a.png) 
+![image](https://user-images.githubusercontent.com/12059492/114064554-c4753080-9867-11eb-9a40-e909a1801eee.png)  
+![image](https://user-images.githubusercontent.com/12059492/114064617-d0f98900-9867-11eb-869a-9151309619d7.png)
+![image](https://user-images.githubusercontent.com/12059492/114064704-e4a4ef80-9867-11eb-81bb-3995ad5e971d.png)
+![image](https://user-images.githubusercontent.com/12059492/114065030-39e10100-9868-11eb-90eb-f81dc7de885f.png)  
+
+
 
 ### SAS Cluster  
 
