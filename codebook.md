@@ -8,13 +8,16 @@ Data Robot - through Snowflake class - Demo version expired.
 Power BI Desktop
 Praxata - demo version
  
-### Compare time series between SAS, PowerBi and Data Robot.  
+### Compare time series between SAS, PowerBi and DataRobot.  
 Simple Time Series - Year, State, Occupation Group, Estimated Emploment Number
 Simple Time series with additional features - Added Year, State, Total Population, Population over18  
 https://github.com/istatkus/Momentum2021Emp_State/blob/main/ST_timeSeries.md  
 
 ### Compare a simple cluster problem between SAS, POWER BI  
 https://github.com/istatkus/Momentum2021Emp_State/blob/main/ST_cluster.md  
+
+### Simple classification using Paxata and DataRobot. 
+https://github.com/istatkus/Momentum2021Emp_State/blob/main/VAERS_CLASSIF.md
 
 ### Simple cluster problem in Data Robot  
 
