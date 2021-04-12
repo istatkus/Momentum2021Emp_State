@@ -23,7 +23,13 @@ Second file contained ID, additional details and flags.
 Converted some Y/missing to binary, converted some text to binary, removed numerous columns, joined to first table for symptom count.  
 ![image](https://user-images.githubusercontent.com/12059492/114239013-7f2e2d00-9953-11eb-98cd-6232b5829df4.png)  
 ![image](https://user-images.githubusercontent.com/12059492/114239075-92d99380-9953-11eb-8616-99a0584fd458.png)  
-Saved and exported manually.  
+
+#### Replace - convert Y/blank to 0/1
+
+#### Text clustering  
+![image](https://user-images.githubusercontent.com/12059492/114425434-1202dd80-9b87-11eb-951e-18bf9c0fdaa6.png)
+
+#### Saved and exported manually.  
 
 ![image](https://user-images.githubusercontent.com/12059492/114238064-011d5680-9952-11eb-97d1-ae1f134ab925.png)  
 
