@@ -30,7 +30,8 @@ Saved and exported manually.
 
 ### Upload to DATA ROBOT
 ![image](https://user-images.githubusercontent.com/12059492/114238021-eea31d00-9951-11eb-9861-9db1f6c6512b.png)  
-
+### Review, select target and run Quick, view feature importance  
+![image](https://user-images.githubusercontent.com/12059492/114239653-55c1d100-9954-11eb-9bdb-b908ad9bedfe.png)  
 
 
 
